@@ -1,6 +1,6 @@
 {
   "name": "hwpush-api",
-  "version": "1.2",
+  "version": "1.2.0",
   "description": "华为推送node库 API",
   "main": "index.js",
   "scripts": {
