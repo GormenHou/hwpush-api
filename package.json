@@ -1,6 +1,6 @@
 {
   "name": "hwpush-api",
-  "version": "1.1.2",
+  "version": "1.2",
   "description": "华为推送node库 API",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/GormenHou/hwpush-api#readme",
   "dependencies": {
-    "urlencoder": "^0.1.0",
+    "messageformat": "^1.1.0",
     "urllib": "^2.25.1",
     "util": "^0.10.3"
   },

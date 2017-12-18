@@ -38,7 +38,7 @@ api.getAccessToken(function(err, token) {
 
 //给单个用户发送通知
 var data_device = {
-    deviceToken:'12345678901234561234567890123456',
+    device_token_list:['12345678901234561234567890123456'],
     payload: {
         hps: {
             msg: {
